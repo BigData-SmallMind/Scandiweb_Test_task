@@ -1,0 +1,40 @@
+
+
+.buttons {
+  padding-right: 1rem;
+}
+
+
+
+.list-body {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+
+  padding: 2rem;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 0 auto;
+  max-width: 1024px;
+  margin: auto;
+}
+
+li {
+  list-style: none;
+  font-size: 0.9rem;
+}
+
+ul {
+  padding-left: 0;
+  padding: 0 3rem 0 3rem;
+}
+
+.product-item {
+  border: 2px solid #faebd7;
+  padding: 1rem;
+  
+}
+
+.product-info {
+  text-align: center;
+}
